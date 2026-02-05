@@ -21,6 +21,9 @@ export default function BooksLayout({
   return (
     <div className="min-h-screen flex flex-col bg-gray-100">
       <header className="bg-gray-900 text-white">
+        <h1 className="text-3xl font-bold text-blue-400 mb-4 flex justify-center">
+            Tokyo Blues library
+        </h1>
         <nav className="max-w-6xl mx-auto px-4 py-4">
           <ul className="flex flex-wrap justify-center gap-3">
             {generos.map((genero) => (
