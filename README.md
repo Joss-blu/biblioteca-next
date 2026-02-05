@@ -3,7 +3,7 @@
 Proyecto realizado con Next.js usando rutas dinámicas y consumo de una API externa.
 
 ## Funcionalidades
-- Menú dinámico con rutas dinámicas
+- Menú dinámico con rutas de generos de libros
 - Galería de libros responsiva
 - Consumo de Open Library API
 - Diseño responsivo con Tailwind CSS
