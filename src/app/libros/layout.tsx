@@ -43,7 +43,7 @@ export default function BooksLayout({
       </main>
 
       <footer className="bg-blue-900 text-black-300 text-center py-4 text-sm">
-        {new Date().getFullYear()} · Librería · Open Library API
+        {new Date().getFullYear()} · Librería
       </footer>
     </div>
   );
