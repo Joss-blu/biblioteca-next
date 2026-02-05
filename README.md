@@ -1,4 +1,4 @@
-# Biblioteca Next.js
+# Biblioteca Tokyo Blues
 
 Proyecto realizado con Next.js usando rutas dinámicas y consumo de una API externa.
 
