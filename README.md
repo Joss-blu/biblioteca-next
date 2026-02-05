@@ -21,5 +21,5 @@ Proyecto realizado con Next.js usando rutas dinámicas y consumo de una API exte
 Proyecto desplegado en Vercel.
 
 
-##Fotos
+## Fotos de evidencia
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/82a2940f-c563-4128-8b27-46e6c04bc744" />
