@@ -17,5 +17,5 @@ Proyecto realizado con Next.js usando rutas dinámicas y consumo de una API exte
 ## Rutas
 - /libros/[generos]
 
-## Deploy
+## Deploy https://biblioteca-next-nine.vercel.app/libros
 Proyecto desplegado en Vercel.
